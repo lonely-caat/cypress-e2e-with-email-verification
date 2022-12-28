@@ -1,0 +1,12 @@
+{
+  "name": "kittycat",
+  "email": "herevalidemail@would.go",
+  "billingAddress": "Kittyland",
+  "city": "kitty town",
+  "postCode": "55113",
+  "state": "Minnesota",
+  "country": "Portugal",
+  "currency": "EUR €",
+  "amount": "10.00",
+  "description": "description is optional but a fun field to manipulate"
+}
